@@ -21,7 +21,8 @@ Learn how to design an ER diagram for a data warehouse project.
 Grasp the concepts of star and snowflake schema designs.
 Learn how to implement these schemas to optimize your data warehouse.
 
-![Screenshot (264)](https://github.com/user-attachments/assets/6022226f-ca0b-459f-9860-9a83706380d7)
+![Screenshot (264)](https://github.com/user-attachments/assets/fff9a457-5a35-4443-807d-39ba299bca9c)
+
 
 ## 3. Test Data Generation Using Python:
 Generate realistic test data using Python for your data warehouse.
