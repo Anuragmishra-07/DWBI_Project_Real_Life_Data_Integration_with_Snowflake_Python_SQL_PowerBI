@@ -36,6 +36,6 @@ Create necessary objects such as databases, schemas, tables, and views in Snowfl
 Master the process of loading data into Snowflake using Python scripts.
 Understand different data loading techniques and best practices.
 
-6. Scenario-Based SQL Queries:
+## 6. Scenario-Based SQL Queries:
 Write and execute complex SQL queries to manipulate and retrieve data.
 Learn to handle various real-life scenarios using SQL in Snowflake.
