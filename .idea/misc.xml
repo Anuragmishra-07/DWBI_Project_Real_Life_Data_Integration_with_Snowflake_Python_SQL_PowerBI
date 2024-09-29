@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (DWBI_Project_Real_Life_Data_Integration_with_Snowflake_Python_SQL_PowerBI)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (DWBI_Project_Real_Life_Data_Integration_with_Snowflake_Python_SQL_PowerBI)" project-jdk-type="Python SDK" />
+</project>
